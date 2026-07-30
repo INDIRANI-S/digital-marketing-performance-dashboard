@@ -48,7 +48,7 @@ This project analyses digital marketing campaign performance using Tableau and E
 
 ## Dashboard Preview
 
-(Add dashboard screenshots here)
+https://github.com/INDIRANI-S/digital-marketing-performance-dashboard/blob/5d9faa94fd3c8e6e9f455875e3813d48a0df81e8/PROJECT%206.png
 
 ---
 
